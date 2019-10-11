@@ -1,2 +1,2 @@
-# lucas
-a student
+# Lucas repository
+just a repository
